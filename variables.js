@@ -15,3 +15,6 @@ console.log(bankName);
 console.log(IFSC);
 console.log("");
 var city = "Jainagar";
+
+
+console.table({ gitHubUserName, LinkedInUserName });console.table({ accountHolder, accountNumber, bankName, IFSC, city });
